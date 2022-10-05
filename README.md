@@ -8,7 +8,7 @@ Projeto construído no evento Next Level Week da Rocketseat 🚀
 
 [🔗 Clique aqui para acessar](https://alanafsoares.github.io/nlw-esports/)
 
-##  Tecnologias
+##  Tech
 
 - HTML
 - CSS
